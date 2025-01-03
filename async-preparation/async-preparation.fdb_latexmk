@@ -1,15 +1,15 @@
 # Fdb version 4
-["biber async-preparation"] 0 "async-preparation.bcf" "async-preparation.bbl" "async-preparation" 1735893266.22575 0
+["biber async-preparation"] 0 "async-preparation.bcf" "async-preparation.bbl" "async-preparation" 1735895363.77463 0
   "../literature.bib" 0 -1 0 ""
   "async-preparation.bcf" 0 -1 0 "pdflatex"
   (generated)
   "async-preparation.bbl"
   "async-preparation.blg"
   (rewritten before read)
-["pdflatex"] 1735893265.22511 "/Users/wombat/nextcloud/highered/highered/async-preparation/async-preparation.tex" "async-preparation.pdf" "async-preparation" 1735893266.22607 0
+["pdflatex"] 1735895362.79365 "/Users/wombat/nextcloud/highered/git-highered/async-preparation/async-preparation.tex" "async-preparation.pdf" "async-preparation" 1735895363.77499 0
   "../../logos/cc-zero.png" 1735512415 9380 78637d273e86c1087272ffecb08f3511 ""
   "../cssheet.cls" 1735893265.02729 4432 7278c72481910764cf2ff6b1317ec317 ""
-  "/Users/wombat/nextcloud/highered/highered/async-preparation/async-preparation.tex" 1735891835.94023 3087 7d0bf27df9e20253833265f90a1f1bbd ""
+  "/Users/wombat/nextcloud/highered/git-highered/async-preparation/async-preparation.tex" 1735895362.6714 3087 524d4a631ed8edbdf17ca2541d8a3d52 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc" 1407086865 2956 e1fccf4917ff205596489dab079ad56f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1--base.tfm" 1407086865 1824 294053fc76d0454a67c35d92b1b50e8a ""
@@ -116,11 +116,11 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1711665088.47423 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1711665071 8221424 e8d7014f596a9df0151199a7b234edcb ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "async-preparation.aux" 1735893266.08145 290 403eff7949b599dc5dc13913368d1780 "pdflatex"
+  "async-preparation.aux" 1735895363.63169 290 403eff7949b599dc5dc13913368d1780 "pdflatex"
   "async-preparation.bbl" 0 -1 0 "biber async-preparation"
-  "async-preparation.out" 1735893265.92861 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "async-preparation.run.xml" 1735893266.0849 2521 ff47c91e2491fa1f643e253be2d6dfef "pdflatex"
-  "async-preparation.tex" 1735891835.94023 3087 7d0bf27df9e20253833265f90a1f1bbd ""
+  "async-preparation.out" 1735895363.47871 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "async-preparation.run.xml" 1735895363.63591 2521 ff47c91e2491fa1f643e253be2d6dfef "pdflatex"
+  "async-preparation.tex" 1735895362.6714 3087 524d4a631ed8edbdf17ca2541d8a3d52 ""
   (generated)
   "async-preparation.aux"
   "async-preparation.bcf"
