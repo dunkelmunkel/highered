@@ -1,0 +1,197 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{hattie2007}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e7251c15733701c65025dabbf16656e4}{%
+           family={Hattie},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e09dc6ea98acb0192a7a1c50eaf4eaff}{%
+           family={Timperley},
+           familyi={T\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{41affa46da516f24b1c9311f5ed30fb9}
+      \strng{fullhash}{41affa46da516f24b1c9311f5ed30fb9}
+      \strng{bibnamehash}{41affa46da516f24b1c9311f5ed30fb9}
+      \strng{authorbibnamehash}{41affa46da516f24b1c9311f5ed30fb9}
+      \strng{authornamehash}{41affa46da516f24b1c9311f5ed30fb9}
+      \strng{authorfullhash}{41affa46da516f24b1c9311f5ed30fb9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Educational Research}
+      \field{number}{1}
+      \field{title}{The Power of Feedback}
+      \field{volume}{77}
+      \field{year}{2007}
+      \field{pages}{81\bibrangedash 112}
+      \range{pages}{32}
+      \keyw{feedback,icmslides}
+    \endentry
+    \entry{praetorius2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2d25e0c39b8fa20a393e98c83f0b9089}{%
+           family={Praetorius},
+           familyi={P\bibinitperiod},
+           given={Anna-Katharina},
+           giveni={A\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be860e3bf2688f52bedf9d174eab9184}{%
+           family={Klieme},
+           familyi={K\bibinitperiod},
+           given={Eckhard},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35d3cc466c0fa40f8433c71c8d4229c4}{%
+           family={Herbert},
+           familyi={H\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d48b8d4040467f3181a2aa7aa963d6e}{%
+           family={Pinger},
+           familyi={P\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c702393f020ed1aca56fe6f62d98bf6}
+      \strng{fullhash}{ca3c1309bfdb8bcd14e9d397ea37a20f}
+      \strng{bibnamehash}{ca3c1309bfdb8bcd14e9d397ea37a20f}
+      \strng{authorbibnamehash}{ca3c1309bfdb8bcd14e9d397ea37a20f}
+      \strng{authornamehash}{4c702393f020ed1aca56fe6f62d98bf6}
+      \strng{authorfullhash}{ca3c1309bfdb8bcd14e9d397ea37a20f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ZDM}
+      \field{title}{Generic Dimensions of Teaching Quality: the German Framework of Three Basic Dimensions}
+      \field{volume}{50}
+      \field{year}{2018}
+      \field{pages}{407\bibrangedash 426}
+      \range{pages}{20}
+      \keyw{quality,icmslides}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{hattie2007}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e7251c15733701c65025dabbf16656e4}{%
+           family={Hattie},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e09dc6ea98acb0192a7a1c50eaf4eaff}{%
+           family={Timperley},
+           familyi={T\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{41affa46da516f24b1c9311f5ed30fb9}
+      \strng{fullhash}{41affa46da516f24b1c9311f5ed30fb9}
+      \strng{bibnamehash}{41affa46da516f24b1c9311f5ed30fb9}
+      \strng{authorbibnamehash}{41affa46da516f24b1c9311f5ed30fb9}
+      \strng{authornamehash}{41affa46da516f24b1c9311f5ed30fb9}
+      \strng{authorfullhash}{41affa46da516f24b1c9311f5ed30fb9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Educational Research}
+      \field{number}{1}
+      \field{title}{The Power of Feedback}
+      \field{volume}{77}
+      \field{year}{2007}
+      \field{pages}{81\bibrangedash 112}
+      \range{pages}{32}
+      \keyw{feedback,icmslides}
+    \endentry
+    \entry{praetorius2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2d25e0c39b8fa20a393e98c83f0b9089}{%
+           family={Praetorius},
+           familyi={P\bibinitperiod},
+           given={Anna-Katharina},
+           giveni={A\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be860e3bf2688f52bedf9d174eab9184}{%
+           family={Klieme},
+           familyi={K\bibinitperiod},
+           given={Eckhard},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35d3cc466c0fa40f8433c71c8d4229c4}{%
+           family={Herbert},
+           familyi={H\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d48b8d4040467f3181a2aa7aa963d6e}{%
+           family={Pinger},
+           familyi={P\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c702393f020ed1aca56fe6f62d98bf6}
+      \strng{fullhash}{ca3c1309bfdb8bcd14e9d397ea37a20f}
+      \strng{bibnamehash}{ca3c1309bfdb8bcd14e9d397ea37a20f}
+      \strng{authorbibnamehash}{ca3c1309bfdb8bcd14e9d397ea37a20f}
+      \strng{authornamehash}{4c702393f020ed1aca56fe6f62d98bf6}
+      \strng{authorfullhash}{ca3c1309bfdb8bcd14e9d397ea37a20f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ZDM}
+      \field{title}{Generic Dimensions of Teaching Quality: the German Framework of Three Basic Dimensions}
+      \field{volume}{50}
+      \field{year}{2018}
+      \field{pages}{407\bibrangedash 426}
+      \range{pages}{20}
+      \keyw{quality,icmslides}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
