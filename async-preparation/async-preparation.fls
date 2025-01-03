@@ -225,10 +225,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Reg
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Italic-tlf-t1.tfm
-INPUT ../logos/cc-zero.png
-INPUT ../logos/cc-zero.png
-INPUT ../logos/cc-zero.png
-INPUT ../logos/cc-zero.png
+INPUT ../../logos/cc-zero.png
+INPUT ../../logos/cc-zero.png
+INPUT ../../logos/cc-zero.png
+INPUT ../../logos/cc-zero.png
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/impallari/raleway/Raleway-Regular-tlf-t1.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1--base.tfm
