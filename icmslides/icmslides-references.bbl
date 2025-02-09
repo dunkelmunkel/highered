@@ -503,6 +503,44 @@
       \range{pages}{16}
       \keyw{icm,icmslides}
     \endentry
+    \entry{chi2014}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1667a8dc17a3d07f14543acc6c898782}{%
+           family={Chi},
+           familyi={C\bibinitperiod},
+           given={Michelene\bibnamedelimb T.\bibnamedelimi H.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58c4afdcae1dfc8ee2f2b0b1ddf54e51}{%
+           family={Wylie},
+           familyi={W\bibinitperiod},
+           given={Ruth},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \strng{fullhash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \strng{bibnamehash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \strng{authorbibnamehash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \strng{authornamehash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \strng{authorfullhash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Psychologist}
+      \field{number}{4}
+      \field{title}{The ICAP Framework: Linking Cognitive Engagement to Active Learning Outcomes}
+      \field{volume}{49}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{219\bibrangedash 243}
+      \range{pages}{25}
+      \keyw{icap,icmslides}
+    \endentry
     \entry{chi1989}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=1667a8dc17a3d07f14543acc6c898782}{%
@@ -4470,6 +4508,44 @@
       \field{pages}{439\bibrangedash 477}
       \range{pages}{39}
       \keyw{selfexplanation,icmslides}
+    \endentry
+    \entry{chi2014}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1667a8dc17a3d07f14543acc6c898782}{%
+           family={Chi},
+           familyi={C\bibinitperiod},
+           given={Michelene\bibnamedelimb T.\bibnamedelimi H.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58c4afdcae1dfc8ee2f2b0b1ddf54e51}{%
+           family={Wylie},
+           familyi={W\bibinitperiod},
+           given={Ruth},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \strng{fullhash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \strng{bibnamehash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \strng{authorbibnamehash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \strng{authornamehash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \strng{authorfullhash}{7c4a9b7727a4623ab10e4ef8b5d797f6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Psychologist}
+      \field{number}{4}
+      \field{title}{The ICAP Framework: Linking Cognitive Engagement to Active Learning Outcomes}
+      \field{volume}{49}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{219\bibrangedash 243}
+      \range{pages}{25}
+      \keyw{icap,icmslides}
     \endentry
     \entry{choi2013}{article}{}
       \name{author}{1}{}{%
