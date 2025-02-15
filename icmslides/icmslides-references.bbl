@@ -941,6 +941,47 @@
       \range{pages}{3}
       \keyw{icm,icmslides}
     \endentry
+    \entry{Dipon_Dio_2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fd4ab0ed68d56d15a6757e7514d0d0df}{%
+           family={Dipon},
+           familyi={D\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5c3ffe11c46cb5077ef54746676e90b}{%
+           family={Dio},
+           familyi={D\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ece215578ae41d35a34b212dfc31ce0}
+      \strng{fullhash}{4ece215578ae41d35a34b212dfc31ce0}
+      \strng{bibnamehash}{4ece215578ae41d35a34b212dfc31ce0}
+      \strng{authorbibnamehash}{4ece215578ae41d35a34b212dfc31ce0}
+      \strng{authornamehash}{4ece215578ae41d35a34b212dfc31ce0}
+      \strng{authorfullhash}{4ece215578ae41d35a34b212dfc31ce0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal on Studies in Education}
+      \field{month}{11}
+      \field{title}{A Meta-Analysis of the Effectiveness of Video-Based Instruction on Students’ Academic Performance in Science and Mathematics}
+      \field{volume}{6}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{732\bibrangedash 746}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.46328/ijonse.266
+      \endverb
+      \keyw{icmslides}
+    \endentry
     \entry{fally2020}{inbook}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=81a69d7f3cfb33afe62025aed10364a0}{%
@@ -2717,6 +2758,87 @@
       \field{pages}{121\bibrangedash 140}
       \range{pages}{20}
       \keyw{icm,icmslides}
+    \endentry
+    \entry{Noetel2021}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=f06813fed7cb039ff2d9238c3b274b8c}{%
+           family={Noetel},
+           familyi={N\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da3a66a7dad7056d461c6a54672a921d}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={Shantell},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e393cbfb222209106cee468747101f3}{%
+           family={Delaney},
+           familyi={D\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=042ddad8a7f82b3cac2bda666964b71e}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={Taren},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d96d4a16d507e52ad5ebb60df2874fd8}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dac34b800be1bd7d2d2e5946942f119}{%
+           family={Pozo\bibnamedelima Cruz},
+           familyi={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Borja},
+           giveni={B\bibinitperiod},
+           givenun=0,
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=d2792b5041433fbcf16d50f2cc7202f6}{%
+           family={Lonsdale},
+           familyi={L\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {American Educational Research Association}%
+      }
+      \strng{namehash}{0d0624156f1df515d738ae4bd1569785}
+      \strng{fullhash}{5582d5a489449272c2079de239452217}
+      \strng{bibnamehash}{5582d5a489449272c2079de239452217}
+      \strng{authorbibnamehash}{5582d5a489449272c2079de239452217}
+      \strng{authornamehash}{0d0624156f1df515d738ae4bd1569785}
+      \strng{authorfullhash}{5582d5a489449272c2079de239452217}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0034-6543}
+      \field{journaltitle}{Review of Educational Research}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{Video Improves Learning in Higher Education: A Systematic Review}
+      \field{volume}{91}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{204\bibrangedash 236}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.3102/0034654321990713
+      \endverb
+      \keyw{icmslides}
     \endentry
     \entry{oezbay2021}{article}{}
       \name{author}{2}{}{%
@@ -5061,6 +5183,47 @@
       \range{pages}{3}
       \keyw{icm,icmslides}
     \endentry
+    \entry{Dipon_Dio_2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fd4ab0ed68d56d15a6757e7514d0d0df}{%
+           family={Dipon},
+           familyi={D\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5c3ffe11c46cb5077ef54746676e90b}{%
+           family={Dio},
+           familyi={D\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ece215578ae41d35a34b212dfc31ce0}
+      \strng{fullhash}{4ece215578ae41d35a34b212dfc31ce0}
+      \strng{bibnamehash}{4ece215578ae41d35a34b212dfc31ce0}
+      \strng{authorbibnamehash}{4ece215578ae41d35a34b212dfc31ce0}
+      \strng{authornamehash}{4ece215578ae41d35a34b212dfc31ce0}
+      \strng{authorfullhash}{4ece215578ae41d35a34b212dfc31ce0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal on Studies in Education}
+      \field{month}{11}
+      \field{title}{A Meta-Analysis of the Effectiveness of Video-Based Instruction on Students’ Academic Performance in Science and Mathematics}
+      \field{volume}{6}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{732\bibrangedash 746}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.46328/ijonse.266
+      \endverb
+      \keyw{icmslides}
+    \endentry
     \entry{fally2020}{inbook}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=81a69d7f3cfb33afe62025aed10364a0}{%
@@ -6837,6 +7000,87 @@
       \field{pages}{121\bibrangedash 140}
       \range{pages}{20}
       \keyw{icm,icmslides}
+    \endentry
+    \entry{Noetel2021}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=f06813fed7cb039ff2d9238c3b274b8c}{%
+           family={Noetel},
+           familyi={N\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da3a66a7dad7056d461c6a54672a921d}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={Shantell},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e393cbfb222209106cee468747101f3}{%
+           family={Delaney},
+           familyi={D\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=042ddad8a7f82b3cac2bda666964b71e}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={Taren},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d96d4a16d507e52ad5ebb60df2874fd8}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dac34b800be1bd7d2d2e5946942f119}{%
+           family={Pozo\bibnamedelima Cruz},
+           familyi={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Borja},
+           giveni={B\bibinitperiod},
+           givenun=0,
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=d2792b5041433fbcf16d50f2cc7202f6}{%
+           family={Lonsdale},
+           familyi={L\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {American Educational Research Association}%
+      }
+      \strng{namehash}{0d0624156f1df515d738ae4bd1569785}
+      \strng{fullhash}{5582d5a489449272c2079de239452217}
+      \strng{bibnamehash}{5582d5a489449272c2079de239452217}
+      \strng{authorbibnamehash}{5582d5a489449272c2079de239452217}
+      \strng{authornamehash}{0d0624156f1df515d738ae4bd1569785}
+      \strng{authorfullhash}{5582d5a489449272c2079de239452217}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0034-6543}
+      \field{journaltitle}{Review of Educational Research}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{Video Improves Learning in Higher Education: A Systematic Review}
+      \field{volume}{91}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{204\bibrangedash 236}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.3102/0034654321990713
+      \endverb
+      \keyw{icmslides}
     \endentry
     \entry{oezbay2021}{article}{}
       \name{author}{2}{}{%

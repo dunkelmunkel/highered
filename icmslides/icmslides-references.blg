@@ -1,19 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'icmslides-references.blg'
-[26] biber-darwin:340> INFO - === Sa Feb 15, 2025, 13:22:46
+[26] biber-darwin:340> INFO - === Sa Feb 15, 2025, 13:50:40
 [32] Biber.pm:419> INFO - Reading 'icmslides-references.bcf'
-[69] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[78] Biber.pm:4419> INFO - Processing section 0
-[82] Biber.pm:4610> INFO - Looking for bibtex file '../literature.bib' for section 0
-[85] bibtex.pm:1713> INFO - LaTeX decoding ...
-[126] bibtex.pm:1519> INFO - Found BibTeX data source '../literature.bib'
-[422] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[422] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[422] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[422] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[514] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[514] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[514] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[514] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[568] bbl.pm:660> INFO - Writing 'icmslides-references.bbl' with encoding 'UTF-8'
-[624] bbl.pm:763> INFO - Output to icmslides-references.bbl
+[70] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[79] Biber.pm:4419> INFO - Processing section 0
+[83] Biber.pm:4610> INFO - Looking for bibtex file '../literature.bib' for section 0
+[86] bibtex.pm:1713> INFO - LaTeX decoding ...
+[130] bibtex.pm:1519> INFO - Found BibTeX data source '../literature.bib'
+[445] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[445] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[445] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[445] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[539] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[539] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[539] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[539] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[593] bbl.pm:660> INFO - Writing 'icmslides-references.bbl' with encoding 'UTF-8'
+[662] bbl.pm:763> INFO - Output to icmslides-references.bbl
