@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.28)  9 FEB 2025 20:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.28)  15 FEB 2025 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -852,6 +852,10 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 25.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 25.
 Package epstopdf Info: Source file: <../../logos/phhd.eps>
 (epstopdf)                    date: 2024-12-29 23:40:30
 (epstopdf)                    size: 454411 bytes
@@ -862,7 +866,7 @@ Package epstopdf Info: Source file: <../../logos/phhd.eps>
 rted-to.pdf ../../logos/phhd.eps>
 (epstopdf)             \includegraphics on input line 25.
 Package epstopdf Info: Output file is already uptodate.
-<../../logos/phhd-eps-converted-to.pdf, id=4, 243.91125pt x 103.38625pt>
+<../../logos/phhd-eps-converted-to.pdf, id=6, 243.91125pt x 103.38625pt>
 File: ../../logos/phhd-eps-converted-to.pdf Graphic file (type pdf)
 <use ../../logos/phhd-eps-converted-to.pdf>
 Package pdftex.def Info: ../../logos/phhd-eps-converted-to.pdf  used on input l
@@ -872,10 +876,6 @@ ine 25.
 local/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}
 
  <../../logos/phhd-eps-converted-to.pdf>]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 25.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 25.
 Package epstopdf Info: Source file: <../../logos/phhd.eps>
 (epstopdf)                    date: 2024-12-29 23:40:30
 (epstopdf)                    size: 454411 bytes
@@ -929,7 +929,7 @@ Package pdftex.def Info: ../../logos/phhd-eps-converted-to.pdf  used on input l
 ine 25.
 (pdftex.def)             Requested size: 100.68906pt x 42.67912pt.
 [4]
-<../../logos/cc-zero.png, id=124, 66.30275pt x 23.42697pt>
+<../../logos/cc-zero.png, id=127, 66.30275pt x 23.42697pt>
 File: ../../logos/cc-zero.png Graphic file (type png)
 <use ../../logos/cc-zero.png>
 Package pdftex.def Info: ../../logos/cc-zero.png  used on input line 30.
@@ -948,10 +948,10 @@ Package logreq Info: Writing requests to 'icmslides-references.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18879 strings out of 474116
- 343392 string characters out of 5743682
+ 18904 strings out of 474116
+ 344597 string characters out of 5743682
  1956187 words of memory out of 5000000
- 40924 multiletter control sequences out of 15000+600000
+ 40945 multiletter control sequences out of 15000+600000
  654175 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,15n,101p,689b,5182s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -959,10 +959,10 @@ Here is how much of TeX's memory you used:
 d.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway
 -Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/R
 aleway-Regular.pfb>
-Output written on icmslides-references.pdf (5 pages, 125106 bytes).
+Output written on icmslides-references.pdf (5 pages, 126594 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 165 compressed objects within 2 object streams
- 95 named destinations out of 1000 (max. 500000)
+ 194 PDF objects out of 1000 (max. 8388607)
+ 175 compressed objects within 2 object streams
+ 99 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

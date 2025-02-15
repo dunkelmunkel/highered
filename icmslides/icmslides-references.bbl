@@ -647,6 +647,59 @@
       \range{pages}{39}
       \keyw{selfexplanation,icmslides}
     \endentry
+    \entry{Chi_Kang_Yaghmourian_2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1667a8dc17a3d07f14543acc6c898782}{%
+           family={Chi},
+           familyi={C\bibinitperiod},
+           given={Michelene\bibnamedelimb T.\bibnamedelimi H.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6fd26b1c89b2859f46a24b02936666c}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Seokmin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=433ce291f2756924c532bf98cb4de1fd}{%
+           family={Yaghmourian},
+           familyi={Y\bibinitperiod},
+           given={David\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{35768d6cef9a967c7d2b27ab9fd29750}
+      \strng{fullhash}{02ab82441d9524ebc78f33a6dcaefea5}
+      \strng{bibnamehash}{02ab82441d9524ebc78f33a6dcaefea5}
+      \strng{authorbibnamehash}{02ab82441d9524ebc78f33a6dcaefea5}
+      \strng{authornamehash}{35768d6cef9a967c7d2b27ab9fd29750}
+      \strng{authorfullhash}{02ab82441d9524ebc78f33a6dcaefea5}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1050-8406}
+      \field{journaltitle}{Journal of the Learning Sciences}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Why Students Learn More From Dialogue- Than Monologue-Videos: Analyses of Peer Interactions}
+      \field{volume}{26}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{10\bibrangedash 50}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1080/10508406.2016.1204546
+      \endverb
+      \keyw{icap,icmslides}
+    \endentry
     \entry{choi2013}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e743898d3d436564e0a67bcb1ad4b8c1}{%
@@ -733,6 +786,60 @@
       \field{pages}{453\bibrangedash 494}
       \range{pages}{42}
       \keyw{studcentered,icmslides}
+    \endentry
+    \entry{Craig_Chi_VanLehn_2009}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=61aab75a8aeef540a3586a7cad93c32c}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={Scotty\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1667a8dc17a3d07f14543acc6c898782}{%
+           family={Chi},
+           familyi={C\bibinitperiod},
+           given={Michelene\bibnamedelimb T.\bibnamedelimi H.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5042d9657728528082da4602cbc855c0}{%
+           family={VanLehn},
+           familyi={V\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {US}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{fa563e563027fef692d9631d921a1b7e}
+      \strng{fullhash}{c321893a149b494ddddb74a8758bd93e}
+      \strng{bibnamehash}{c321893a149b494ddddb74a8758bd93e}
+      \strng{authorbibnamehash}{c321893a149b494ddddb74a8758bd93e}
+      \strng{authornamehash}{fa563e563027fef692d9631d921a1b7e}
+      \strng{authorfullhash}{c321893a149b494ddddb74a8758bd93e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-2176}
+      \field{journaltitle}{Journal of Educational Psychology}
+      \field{number}{4}
+      \field{title}{Improving classroom learning by collaboratively observing human tutoring videos while problem solving}
+      \field{volume}{101}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{779\bibrangedash 789}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1037/a0016601
+      \endverb
+      \keyw{icmslides}
     \endentry
     \entry{deci1993}{article}{}
       \name{author}{2}{}{%
@@ -2379,6 +2486,119 @@
       \range{pages}{-1}
       \keyw{icm,icmslides}
     \endentry
+    \entry{Muller_Bewes_Sharma_Reimann_2008}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=aa356e99ab367913bff9a277f4b9ccb1}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={D.a.},
+           giveni={D\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=26aee4601f6c41de46b8b204ba0f3b3a}{%
+           family={Bewes},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09a13114d5da9d80c8503dceb755735e}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={M.d.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba292e347b39083d1a29fbec3c4dd109}{%
+           family={Reimann},
+           familyi={R\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{67dbe30dc24df5e58b1d2603fe366197}
+      \strng{fullhash}{0ebc664aa8b30168195ed8f4878a1184}
+      \strng{bibnamehash}{0ebc664aa8b30168195ed8f4878a1184}
+      \strng{authorbibnamehash}{0ebc664aa8b30168195ed8f4878a1184}
+      \strng{authornamehash}{67dbe30dc24df5e58b1d2603fe366197}
+      \strng{authorfullhash}{0ebc664aa8b30168195ed8f4878a1184}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1365-2729}
+      \field{journaltitle}{Journal of Computer Assisted Learning}
+      \field{number}{2}
+      \field{title}{Saying the wrong thing: improving learning with multimedia by including misconceptions}
+      \field{volume}{24}
+      \field{year}{2008}
+      \true{nocite}
+      \field{pages}{144\bibrangedash 155}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1111/j.1365-2729.2007.00248.x
+      \endverb
+      \keyw{icmslides}
+    \endentry
+    \entry{Muller_Sharma_Eklund_Reimann_2007}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=55ce04bd72d617922c7248f0f75fa223}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={Derek\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=bfc1ef7487151c28a1e461c1f5e12eea}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Manjula\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e6002ac1575ddb4150944825b872c6b}{%
+           family={Eklund},
+           familyi={E\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d61d288a176982e87f9c9a9e61a5fa7e}{%
+           family={Reimann},
+           familyi={R\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e5661bca4924e735878bb68d44ef03ac}
+      \strng{fullhash}{52e5a7a86c58feb1e1d5c2306cc2e445}
+      \strng{bibnamehash}{52e5a7a86c58feb1e1d5c2306cc2e445}
+      \strng{authorbibnamehash}{52e5a7a86c58feb1e1d5c2306cc2e445}
+      \strng{authornamehash}{e5661bca4924e735878bb68d44ef03ac}
+      \strng{authorfullhash}{52e5a7a86c58feb1e1d5c2306cc2e445}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1573-1952}
+      \field{journaltitle}{Instructional Science}
+      \field{month}{11}
+      \field{number}{6}
+      \field{title}{Conceptual change through vicarious learning in an authentic physics setting}
+      \field{volume}{35}
+      \field{year}{2007}
+      \true{nocite}
+      \field{pages}{519\bibrangedash 533}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s11251-007-9017-6
+      \endverb
+      \keyw{icmslides}
+    \endentry
     \entry{nader2021}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=36d877dcdf074bb1baea65118e820583}{%
@@ -2444,7 +2664,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{frontiers in Education}
+      \field{journaltitle}{Frontiers in Education}
       \field{title}{How Common Is Belief in the Learning Styles Neuromyth, and Does It Matter? A Pragmatic Systematic Review}
       \field{volume}{5}
       \field{year}{2020}
@@ -4509,6 +4729,59 @@
       \range{pages}{39}
       \keyw{selfexplanation,icmslides}
     \endentry
+    \entry{Chi_Kang_Yaghmourian_2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1667a8dc17a3d07f14543acc6c898782}{%
+           family={Chi},
+           familyi={C\bibinitperiod},
+           given={Michelene\bibnamedelimb T.\bibnamedelimi H.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6fd26b1c89b2859f46a24b02936666c}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Seokmin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=433ce291f2756924c532bf98cb4de1fd}{%
+           family={Yaghmourian},
+           familyi={Y\bibinitperiod},
+           given={David\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{35768d6cef9a967c7d2b27ab9fd29750}
+      \strng{fullhash}{02ab82441d9524ebc78f33a6dcaefea5}
+      \strng{bibnamehash}{02ab82441d9524ebc78f33a6dcaefea5}
+      \strng{authorbibnamehash}{02ab82441d9524ebc78f33a6dcaefea5}
+      \strng{authornamehash}{35768d6cef9a967c7d2b27ab9fd29750}
+      \strng{authorfullhash}{02ab82441d9524ebc78f33a6dcaefea5}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1050-8406}
+      \field{journaltitle}{Journal of the Learning Sciences}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Why Students Learn More From Dialogue- Than Monologue-Videos: Analyses of Peer Interactions}
+      \field{volume}{26}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{10\bibrangedash 50}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1080/10508406.2016.1204546
+      \endverb
+      \keyw{icap,icmslides}
+    \endentry
     \entry{chi2014}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=1667a8dc17a3d07f14543acc6c898782}{%
@@ -4633,6 +4906,60 @@
       \field{pages}{453\bibrangedash 494}
       \range{pages}{42}
       \keyw{studcentered,icmslides}
+    \endentry
+    \entry{Craig_Chi_VanLehn_2009}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=61aab75a8aeef540a3586a7cad93c32c}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={Scotty\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1667a8dc17a3d07f14543acc6c898782}{%
+           family={Chi},
+           familyi={C\bibinitperiod},
+           given={Michelene\bibnamedelimb T.\bibnamedelimi H.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5042d9657728528082da4602cbc855c0}{%
+           family={VanLehn},
+           familyi={V\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {US}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{fa563e563027fef692d9631d921a1b7e}
+      \strng{fullhash}{c321893a149b494ddddb74a8758bd93e}
+      \strng{bibnamehash}{c321893a149b494ddddb74a8758bd93e}
+      \strng{authorbibnamehash}{c321893a149b494ddddb74a8758bd93e}
+      \strng{authornamehash}{fa563e563027fef692d9631d921a1b7e}
+      \strng{authorfullhash}{c321893a149b494ddddb74a8758bd93e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-2176}
+      \field{journaltitle}{Journal of Educational Psychology}
+      \field{number}{4}
+      \field{title}{Improving classroom learning by collaboratively observing human tutoring videos while problem solving}
+      \field{volume}{101}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{779\bibrangedash 789}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1037/a0016601
+      \endverb
+      \keyw{icmslides}
     \endentry
     \entry{deci1993}{article}{}
       \name{author}{2}{}{%
@@ -6279,6 +6606,119 @@
       \range{pages}{-1}
       \keyw{icm,icmslides}
     \endentry
+    \entry{Muller_Bewes_Sharma_Reimann_2008}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=aa356e99ab367913bff9a277f4b9ccb1}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={D.a.},
+           giveni={D\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=26aee4601f6c41de46b8b204ba0f3b3a}{%
+           family={Bewes},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09a13114d5da9d80c8503dceb755735e}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={M.d.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba292e347b39083d1a29fbec3c4dd109}{%
+           family={Reimann},
+           familyi={R\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{67dbe30dc24df5e58b1d2603fe366197}
+      \strng{fullhash}{0ebc664aa8b30168195ed8f4878a1184}
+      \strng{bibnamehash}{0ebc664aa8b30168195ed8f4878a1184}
+      \strng{authorbibnamehash}{0ebc664aa8b30168195ed8f4878a1184}
+      \strng{authornamehash}{67dbe30dc24df5e58b1d2603fe366197}
+      \strng{authorfullhash}{0ebc664aa8b30168195ed8f4878a1184}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1365-2729}
+      \field{journaltitle}{Journal of Computer Assisted Learning}
+      \field{number}{2}
+      \field{title}{Saying the wrong thing: improving learning with multimedia by including misconceptions}
+      \field{volume}{24}
+      \field{year}{2008}
+      \true{nocite}
+      \field{pages}{144\bibrangedash 155}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1111/j.1365-2729.2007.00248.x
+      \endverb
+      \keyw{icmslides}
+    \endentry
+    \entry{Muller_Sharma_Eklund_Reimann_2007}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=55ce04bd72d617922c7248f0f75fa223}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={Derek\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=bfc1ef7487151c28a1e461c1f5e12eea}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Manjula\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e6002ac1575ddb4150944825b872c6b}{%
+           family={Eklund},
+           familyi={E\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d61d288a176982e87f9c9a9e61a5fa7e}{%
+           family={Reimann},
+           familyi={R\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e5661bca4924e735878bb68d44ef03ac}
+      \strng{fullhash}{52e5a7a86c58feb1e1d5c2306cc2e445}
+      \strng{bibnamehash}{52e5a7a86c58feb1e1d5c2306cc2e445}
+      \strng{authorbibnamehash}{52e5a7a86c58feb1e1d5c2306cc2e445}
+      \strng{authornamehash}{e5661bca4924e735878bb68d44ef03ac}
+      \strng{authorfullhash}{52e5a7a86c58feb1e1d5c2306cc2e445}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1573-1952}
+      \field{journaltitle}{Instructional Science}
+      \field{month}{11}
+      \field{number}{6}
+      \field{title}{Conceptual change through vicarious learning in an authentic physics setting}
+      \field{volume}{35}
+      \field{year}{2007}
+      \true{nocite}
+      \field{pages}{519\bibrangedash 533}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s11251-007-9017-6
+      \endverb
+      \keyw{icmslides}
+    \endentry
     \entry{nader2021}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=36d877dcdf074bb1baea65118e820583}{%
@@ -6344,7 +6784,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{frontiers in Education}
+      \field{journaltitle}{Frontiers in Education}
       \field{title}{How Common Is Belief in the Learning Styles Neuromyth, and Does It Matter? A Pragmatic Systematic Review}
       \field{volume}{5}
       \field{year}{2020}
