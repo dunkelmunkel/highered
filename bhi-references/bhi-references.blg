@@ -1,0 +1,21 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'bhi-references.blg'
+[29] biber-darwin:340> INFO - === Fr Mär  7, 2025, 21:16:21
+[38] Biber.pm:419> INFO - Reading 'bhi-references.bcf'
+[75] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[85] Biber.pm:4419> INFO - Processing section 0
+[89] Biber.pm:4610> INFO - Looking for bibtex file '../literature.bib' for section 0
+[93] bibtex.pm:1713> INFO - LaTeX decoding ...
+[151] bibtex.pm:1519> INFO - Found BibTeX data source '../literature.bib'
+[554] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[554] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[554] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[554] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[684] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[684] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[684] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[684] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[770] bbl.pm:660> INFO - Writing 'bhi-references.bbl' with encoding 'UTF-8'
+[847] bbl.pm:763> INFO - Output to bhi-references.bbl
+[847] Biber.pm:131> WARN - legacy year field 'in press' in entry 'neiske2025' is not an integer - this will probably not sort properly.
+[847] Biber.pm:133> INFO - WARNINGS: 1
