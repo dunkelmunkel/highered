@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.26)  21 AUG 2025 21:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.26)  21 AUG 2025 21:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1455,7 +1455,7 @@ Here is how much of TeX's memory you used:
 d.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/impallari/raleway/Raleway
 -Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/impallari/raleway/R
 aleway-Regular.pfb>
-Output written on hinweise-tutorien.pdf (2 pages, 102945 bytes).
+Output written on hinweise-tutorien.pdf (2 pages, 102943 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
